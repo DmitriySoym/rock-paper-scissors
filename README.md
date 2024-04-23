@@ -9,7 +9,7 @@ npm install
 npm start
 ```
 
-### To run a project with five arguments run
+### To run the project with five arguments run
 ```
 node index.js arg1 arg2 arg3 arg4 arg5
 ```
